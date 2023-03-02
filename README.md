@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/101872898/222322633-be2e6040-a6e7-4bb9-b789-fb1cf7e3e9ca.png)
 
-## Need Attention | 需要注意的坑：
+# Need Attention | 需要注意的坑：
 
 1. 这里需要加上这几行代码，并且选择`x86`：
 
