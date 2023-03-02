@@ -1,0 +1,36 @@
+﻿  netcat.c
+C:\Users\share\source\repos\netcat\netcat\netcat.c(101,1): warning C4005: “EADDRINUSE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(89): message : 参见“EADDRINUSE”的前一个定义
+C:\Users\share\source\repos\netcat\netcat\netcat.c(102,1): warning C4005: “ETIMEDOUT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(127): message : 参见“ETIMEDOUT”的前一个定义
+C:\Users\share\source\repos\netcat\netcat\netcat.c(103,1): warning C4005: “ECONNREFUSED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(96): message : 参见“ECONNREFUSED”的前一个定义
+C:\Users\share\source\repos\netcat\netcat\netcat.c(496,16): warning C4013: “strcasecmp”未定义；假设外部返回 int
+C:\Users\share\source\repos\netcat\netcat\netcat.c(546,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(558,3): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(561,4): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(581,3): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(591,4): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(648,4): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(667,4): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(689,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(851,12): error C4996: 'dup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _dup. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1048,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1050,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1052,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1053,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1155,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1167,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1322,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1606,9): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1470,4): error C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1604,8): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1607,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1615,6): error C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1621,9): error C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1623,5): error C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1632,6): error C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1667,12): error C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _write. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1720,9): error C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _write. See online help for details.
+C:\Users\share\source\repos\netcat\netcat\netcat.c(2020,16): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\share\source\repos\netcat\netcat\netcat.c(2035,38): warning C4133: “函数”: 从“LPCSTR”到“LPCWSTR”的类型不兼容

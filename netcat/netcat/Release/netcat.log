@@ -1,0 +1,15 @@
+﻿  netcat.c
+C:\Users\share\source\repos\netcat\netcat\netcat.c(104,1): warning C4005: “EADDRINUSE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(89): message : 参见“EADDRINUSE”的前一个定义
+C:\Users\share\source\repos\netcat\netcat\netcat.c(105,1): warning C4005: “ETIMEDOUT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(127): message : 参见“ETIMEDOUT”的前一个定义
+C:\Users\share\source\repos\netcat\netcat\netcat.c(106,1): warning C4005: “ECONNREFUSED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(96): message : 参见“ECONNREFUSED”的前一个定义
+C:\Users\share\source\repos\netcat\netcat\netcat.c(1609,9): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\share\source\repos\netcat\netcat\netcat.c(2023,16): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\share\source\repos\netcat\netcat\netcat.c(2038,38): warning C4133: “函数”: 从“LPCSTR”到“LPCWSTR”的类型不兼容
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 31 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  netcat.vcxproj -> C:\Users\share\source\repos\netcat\Release\netcat.exe
